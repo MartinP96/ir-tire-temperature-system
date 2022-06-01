@@ -7,8 +7,7 @@ For interfacing TFT screen we are using MCUFRIEND_kbv library: https://github.co
 
 Two sample images of TFT user interaface:
 
-![IMG_20210116_175326](https://user-images.githubusercontent.com/54812954/171502787-9c956c7b-9853-4e46-9e0e-bfe7572c2e26.jpg)
-
-![IMG_20210116_175425](https://user-images.githubusercontent.com/54812954/171502768-4e5f9d2c-e65c-4803-a91f-95fc025a6d02.jpg)
+![IMG_20210116_175326](https://user-images.githubusercontent.com/54812954/171503378-6e01b9e1-fa4c-45f5-8312-0205b06abecb.jpg)
 
 
+![IMG_20210116_175425](https://user-images.githubusercontent.com/54812954/171503413-cf9abf03-3f6e-4979-9197-1b0a4054860b.jpg)
